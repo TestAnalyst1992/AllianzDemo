@@ -16,4 +16,9 @@ public class AppTest
     {
         Assert.assertTrue( true );
     }
+    
+    public void shouldAnswerWithFalse()
+    {
+        Assert.assertFalse( false );
+    }
 }
