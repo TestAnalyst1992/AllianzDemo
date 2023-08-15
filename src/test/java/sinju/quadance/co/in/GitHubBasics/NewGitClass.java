@@ -10,5 +10,11 @@ public class NewGitClass {
 	    public void shouldAnswerWithFalse()
 	    {
 	        Assert.assertFalse( false );
+	        Assert.assertFalse( true );
+	        
+	        Assert.assertFalse( false );
+	        Assert.assertFalse( true );
+	        
+	        
 	    }
 }
