@@ -9,6 +9,7 @@ import org.testng.annotations.Test;
 public class AppTest 
 {
     /**
+     * 
      * Rigorous Test :-)
      */
     @Test
@@ -21,5 +22,10 @@ public class AppTest
     public void shouldAnswerWithFalse()
     {
         Assert.assertFalse( false );
+        
+        Assert.assertFalse( false );
+        Assert.assertFalse( true );
+        
+        
     }
 }
