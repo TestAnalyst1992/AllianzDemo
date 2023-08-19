@@ -17,4 +17,16 @@ public class NewGitClass {
 	        
 	        
 	    }
+	 
+	 @Test
+	    public void should1AnswerWithFalse()
+	    {
+	        Assert.assertFalse( false );
+	        Assert.assertFalse( true );
+	        
+	        Assert.assertFalse( false );
+	        Assert.assertFalse( true );
+	        
+	        
+	    }
 }

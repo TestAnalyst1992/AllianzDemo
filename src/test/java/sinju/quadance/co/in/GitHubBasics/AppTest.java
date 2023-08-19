@@ -16,6 +16,8 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         Assert.assertTrue( true );
+        
+        // final edits from develop branch
     }
     
     @Test
@@ -26,6 +28,7 @@ public class AppTest
         Assert.assertFalse( false );
         Assert.assertFalse( true );
         
-        
+        // final edits from develop branch
+
     }
 }
